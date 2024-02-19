@@ -1,0 +1,12 @@
+Package: inteRcatch
+Type: Package
+Title: Methods for dealing with ICES InterCatch output format
+Version: 0.1.0
+Author: Alexandros Kokkalis
+Maintainer: Alexandros Kokkalis <yourself@somewhere.net>
+Description: Collection of functions for raising discards and making 
+    age/length allocations
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
